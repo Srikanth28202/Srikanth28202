@@ -125,25 +125,8 @@ Machine Learning project for weather prediction using statistical time-series fo
 
 ---
 
-# 📈 Contribution Graph
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srikanth28202&theme=github-dark"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Srikanth28202&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
 
 # 🎯 Current Focus
 
